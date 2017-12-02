@@ -1,10 +1,3 @@
-# Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
-picture:        'assets/img/profile.png'
-locale:         en_US
-url:            https://alperenbozkurt.github.io/JBlog
 
 
 # Jekyll
@@ -57,7 +50,7 @@ youtube: username
 
 
 # Comments
-disqus_shortname: alperenbozkurt-net
+disqus_shortname: obatgaptek
 
 
 # Gems
