@@ -5,7 +5,7 @@ date: 2012-05-22
 excerpt: "Mips ve assembly kodları giriş."
 tags: [sample post, readability, test]
 ---
-**Mips Nedir ?**
+**Sistem Informasi Uin suska ?**
 ===
 MIPS **İndirgenmiş Komut Kümesi** türü bir mikroişlemci mimarisidir. MIPS Teknolojileri adlı firma tarafından üretilmiştir. Her komut aynı boydadır. Bu da komutların bilgisayar donanımı tarafından kolay çözülmesini sağlar.
 **RISC** yapısından dolayı tasarımı basittir. Çoğu modern mikroişlemci mimarisi (IBM/Motorola PowerPC, DEC, ARM) Mips mimarisinden esinlenilerek yapılmıştır.
